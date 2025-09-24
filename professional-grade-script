@@ -1,0 +1,49 @@
+Create a professional-grade [TECHNOLOGY/PURPOSE] installation/setup script with the following requirements:
+
+1. **Prerequisites validation first** - Check all requirements before executing main code:
+   - System compatibility (OS, package manager)
+   - Hardware requirements (RAM, CPU, disk space)
+   - Network connectivity
+   - Required ports availability
+   - Existing installation detection
+   - Root/sudo privileges
+
+2. **Professional structure**:
+   - Proper shebang and error handling (set -euo pipefail)
+   - Configuration variables at top
+   - Modular functions for each task
+   - Comprehensive logging with timestamps
+   - Color-coded output (INFO/WARN/ERROR)
+   - Header with script metadata
+
+3. **Enterprise features**:
+   - Error handling for each critical operation
+   - Service verification after installation
+   - Rollback capabilities where applicable
+   - Log file for troubleshooting
+   - User confirmation for destructive operations
+   - Next steps guidance after completion
+
+4. **Security & best practices**:
+   - Input validation
+   - Secure defaults
+   - Latest repository URLs
+   - Service hardening where applicable
+
+Convert this basic script: [PASTE YOUR SCRIPT HERE]
+
+Make it production-ready with all the above features.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Key elements to always include in your prompt:
+
+Specify the technology/purpose
+
+Request prerequisite checks first
+
+Ask for professional structure
+
+Mention enterprise features
+
+Include your basic script to convert
